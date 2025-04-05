@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Práctica0Diagramasdeclases {
-}
